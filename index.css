@@ -1,0 +1,161 @@
+* {
+    margin: 0px;
+    border: 0px;
+}
+body {
+    color: white;
+}
+
+.a {
+    margin: auto;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    position: absolute;
+}
+.b {
+    margin: 30px;
+    text-decoration: none;
+    color: black;
+}
+.c {
+    margin: 30px;
+    float: right;
+    text-decoration: none;
+    color: black;
+}
+
+#distance {
+    
+    position: relative;
+    display: inline-block;
+}
+#icon {
+    max-width: 40px;
+    max-height: 40px;
+    margin-top: 20px;
+    display: inline-block;
+    position: relative;
+    
+}
+#signin {
+    border-style: solid;
+    border-radius: 3px;
+    background-color:rgb(19, 126, 212);
+    padding: 7px;
+    margin: 20px;
+    margin-right: 50px;
+    font-weight: bold;
+    color: white;
+    text-decoration: inherit;
+    text-align: center;
+} 
+
+.logo {
+    
+    margin:auto;
+    padding-top: 250px;
+    padding-left: 20px;
+    width: 290px;
+    display: block;
+    position: relative;  
+}
+.y {
+    padding: 25px 0 25px;
+    width: 580px;
+    margin: auto;
+    
+
+
+}
+#search {
+    margin:auto;
+    width: 580px;
+    height: 20px;
+    padding: 5px;
+    border: 0.5px solid rgba(0, 0, 0, 0.2);
+    border-radius: 30px;
+    position: relative;
+    display: block;
+}
+
+ .glass {
+    margin: -25px -25px -25px 0;
+    position: absolute;
+    padding: 0 0 30px 10px;
+    opacity: 30%;
+    
+    
+    
+} 
+.micro {
+    width: 15px;
+    margin: -25px 0 0 560px;
+    display: inline-block;
+    position: absolute;
+    
+   
+} 
+.d {  
+    padding: 30px 0 0;
+    width: 350px;
+    margin: auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.e {
+    text-decoration: none;
+    margin: 0 5px;
+    padding:10px;
+    border-radius: 5px;
+    color: gray;
+    background-color:rgba(0, 0,0, 0.1) ;
+}
+
+#z {
+    padding: 12px 0 0;
+    width: 350px;
+    margin: auto;
+    text-align: center;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.g{
+    color: blue;
+}
+.h {
+    margin: auto;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    display: inline-block;
+    position: absolute;
+    bottom:10px;
+}
+#h {
+    top: 300px;
+    padding-left:30px;
+    text-decoration: none;
+    color: gray;
+    background-color:rgba(0, 0,0, 0.1)
+}
+.i {
+    margin-top: 30px;
+    padding-left:30px;
+    color: gray;
+    background-color:rgba(0, 0,0, 0.1)
+    
+}
+#i {
+    text-decoration: none;
+    margin-right: 30px;
+    color: gray;
+    float: left;
+}
+
+#j {
+    text-decoration: none;
+    margin: 0 30px;
+    float: right;
+    color: gray;
+
+}
